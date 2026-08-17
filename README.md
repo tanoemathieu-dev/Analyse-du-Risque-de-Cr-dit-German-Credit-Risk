@@ -117,4 +117,4 @@ Le dataset source contient deux variables historiquement sensibles : `personal_s
 **Tanoé Mathieu Koffi** — Junior Data Analyst, Abidjan (Côte d'Ivoire)
 [GitHub](https://github.com/tanoemathieu-dev) · [LinkedIn](#)
 
-*Ce projet a été réalisé dans une démarche d'apprentissage et de constitution de portfolio en analyse de risque crédit bancaire, dans le cadre du Master 1 Data Analytics (Institut CERCO) et de la certification Microsoft Power BI Data Analyst.*
+*Ce projet a été réalisé dans une démarche d'apprentissage et de constitution de portfolio en analyse de risque crédit bancaire, dans le cadre du Master 1 Data Analytics (Institut CERCO) 
